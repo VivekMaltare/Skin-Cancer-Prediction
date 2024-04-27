@@ -1,3 +1,6 @@
+#local mlruns and confusion matrices
+mlruns/
+confusion_matrices/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
