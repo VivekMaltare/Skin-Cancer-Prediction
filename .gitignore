@@ -1,5 +1,7 @@
 #local mlruns and confusion matrices
+vgg16_1.keras
 confusion_matrices/
+history.json
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
